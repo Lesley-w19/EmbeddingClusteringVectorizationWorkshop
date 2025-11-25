@@ -1,0 +1,11 @@
+click==8.3.1
+colorama==0.4.6
+joblib==1.5.2
+nltk==3.9.2
+regex==2025.11.3
+tqdm==4.67.1
+gensim==4.4.0
+numpy==2.3.5
+scipy==1.16.3
+smart_open==7.5.0
+wrapt==2.0.1
