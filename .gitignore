@@ -1,0 +1,3 @@
+# ignore large glove files
+/glove.6B
+
