@@ -10,7 +10,10 @@ Lab9 - Embeddings, Clustering & Vectorization Workshop
 
 ### Dataset Description
 
+The dataset  to perform skipgramand CBOW is sourced from a public domain and contains various random texts.
+No particular description is available. The lisk is attached 
 
+https://www.kaggle.com/datasets/ozgeozkaya/sick-dataset?resource=download
 
 
 #### GloVe Model
