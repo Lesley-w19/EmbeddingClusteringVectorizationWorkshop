@@ -1,9 +1,13 @@
 # venvironment files
 .venv/
 
+<<<<<<< HEAD
 
 # ignore large glove files
 /glove.6B
 
 
 # data
+=======
+# 
+>>>>>>> 84b4a01835ab3fa243ba0d3dd63eab5ce7241b3e
